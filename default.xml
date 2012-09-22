@@ -49,6 +49,8 @@
   <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="aokp" revision="jb" />
   <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="aokp" revision="jb" />
   <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/i9100" name="AOKP/device_samsung_i9100" remote="aokp" revision="jb" />
+  <project path="device/samsung/i9100g" name="AOKP/device_samsung_i9100g" remote="aokp" revision="jb" />
   <project path="device/samsung/d2vzw" name="AOKP/device_samsung_d2vzw" remote="aokp" revision="jb" />
   <project path="device/samsung/hercules" name="AOKP/device_samsung_hercules" remote="aokp" revision="jb" />
   <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" remote="aokp" revision="jb" />
@@ -56,7 +58,7 @@
   <project path="device/samsung/msm8660-common" name="AOKP/android_device_samsung_msm8660-common" remote="aokp" revision="jb" />
   <project path="device/samsung/msm8960-common" name="AOKP/android_device_samsung_msm8960-common" remote="aokp" revision="jb" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb" />
-  <project path="device/samsung/torospr" name="device/samsung/torospr" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="device/samsung/toroplus" name="AOKP/android_device_samsung_toroplus" remote="aokp" revision="jb" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
@@ -252,7 +254,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="cm" revision="refs/tags/android-4.1.1_r4" />
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="aokp" revision="jb" />
-  <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
+  <project path="packages/apps/Calculator" name="AOKP/packages_apps_Calculator" remote="aokp" revision="jb" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
   <project path="packages/apps/Camera" name="AOKP/packages_apps_Camera" remote="aokp" revision="jb" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r4" />
