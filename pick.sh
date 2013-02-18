@@ -9,3 +9,6 @@ git fetch http://gerrit.sudoservers.com/AOKP/frameworks_av refs/changes/15/4615/
 
 cd ../native
 git fetch http://gerrit.sudoservers.com/AOKP/frameworks_native refs/changes/35/4635/1 && git cherry-pick FETCH_HEAD
+
+cd ../../packages/apps/Mms
+git fetch http://gerrit.sudoservers.com/AOKP/packages_apps_Mms refs/changes/14/5314/2 && git cherry-pick FETCH_HEAD
